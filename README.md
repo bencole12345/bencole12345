@@ -9,7 +9,7 @@ Like most CompScis, I enjoy writing code and solving problems. I've pinned a few
 - 📚 Currently reading: Designing Data-Intensive Applications by Martin Kleppmann, and The Void Trilogy by Peter F. Hamilton.
 <!-- - ⚡ Fun fact: In term-time I start my days at 6am! -->
 
-<a href="https://www.linkedin.com/in/ben-cole-4b2882171/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/bencole12345/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <!--
 **bencole12345/bencole12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
