@@ -2,7 +2,7 @@
 
 Hey, I'm Ben (he/him/his), a software engineer with a Master's degree in Computer Science from the University of Cambridge.
 
-Like most engineers, I enjoy writing code and solving problems. I've pinned a few of the projects that I have worked on - take a look! I'm particularly proud of [JavAssembler](https://github.com/bencole12345/JavAssembler), the compiler that I wrote for my Bachelor's project, and [Capability-Derived Lifetimes](https://github.com/bencole12345/CapabilityDerivedLifetimes), an ISA extension I developed to prevent stack-based temporal memory safety violations.
+Like most engineers, I enjoy writing code and solving problems. I've pinned a few of the projects that I have worked on - take a look! I'm particularly proud of [JavAssembler](https://github.com/bencole12345/JavAssembler), the compiler that I wrote for my Bachelor's project, and [Capability-Derived Lifetimes](https://github.com/bencole12345/CapabilityDerivedLifetimes), an ISA extension I developed as part of my Master's thesis to prevent stack-based temporal memory safety violations. I've also worked on [a 3D physically-based rendering engine](https://github.com/bencole12345/PhysicallyBasedRenderer).
 
 - 😄 Hobbies: Badminton, Video Games, Learning Foreign Languages
 - 🌱 Currently learning: Rust, and want to discover more about lower-level programming.
