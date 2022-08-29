@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-Hey, I'm Ben (he/him), a fourth-year student studying for a Master's degree in Computer Science at the University of Cambridge, UK.
+Hey, I'm Ben (he/him/his), a software engineer with a Master's degree in Computer Science from the University of Cambridge.
 
-Like most CompScis, I enjoy writing code and solving problems. I've pinned a few of the projects that I have worked on - take a look! I'm particularly proud of [JavAssembler](https://github.com/bencole12345/JavAssembler), the compiler that I wrote for my Bachelor's project. You can read my dissertation [here](https://github.com/bencole12345/JavAssembler/blob/master/Dissertation.pdf).
+Like most engineers, I enjoy writing code and solving problems. I've pinned a few of the projects that I have worked on - take a look! I'm particularly proud of [JavAssembler](https://github.com/bencole12345/JavAssembler), the compiler that I wrote for my Bachelor's project, and [Capability-Derived Lifetimes](https://github.com/bencole12345/CapabilityDerivedLifetimes), an ISA extension I developed to prevent stack-based temporal memory safety violations.
 
-- 😄 Hobbies: Video Games, Chess, Cycling, Badminton
-- 🌱 Currently learning: C++, and want to discover more about lower-level programming.
-- 📚 Currently reading: Designing Data-Intensive Applications by Martin Kleppmann, and The Void Trilogy by Peter F. Hamilton.
-<!-- - ⚡ Fun fact: In term-time I start my days at 6am! -->
+- 😄 Hobbies: Badminton, Video Games, Learning Foreign Languages
+- 🌱 Currently learning: Rust, and want to discover more about lower-level programming.
+- 📚 Currently reading: The Meritocracy Trap by Daniel Markovits, and The Void Trilogy by Peter F. Hamilton.
 
 <a href="https://www.linkedin.com/in/bencole12345/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <!--
